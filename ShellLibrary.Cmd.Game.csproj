@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+	  <OutputType>Library</OutputType>
+	  <PackageId>ShellLibrary.Cmd.Game</PackageId>
+	  <Version>0.1.0</Version>
+	  <Author>OFFMN-SHARP</Author>
+	  <Description>通用.Net游戏控制台框架后端</Description>
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+	  <PackageProjectUrl>https://github.com/OFFMN-SHARP/ShellLibrary.Cmd.git</PackageProjectUrl>
+	  <PackageTags>shell;cli;interactive;command-line;framework</PackageTags>
+	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	  <PackageReadmeFile>README.md</PackageReadmeFile>
+	  <RepositoryUrl>https://github.com/OFFMN-SHARP/ShellLibrary.Cmd.Game.git</RepositoryUrl>
+
+  </PropertyGroup>
+
+</Project>
