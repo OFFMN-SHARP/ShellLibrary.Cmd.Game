@@ -16,5 +16,7 @@
 	  <RepositoryUrl>https://github.com/OFFMN-SHARP/ShellLibrary.Cmd.Game.git</RepositoryUrl>
 
   </PropertyGroup>
-
+<ItemGroup>
+  <None Include="README.md" Pack="true" PackagePath="\" />
+</ItemGroup>
 </Project>
